@@ -1,7 +1,7 @@
 ## Hi there, I'm Radin 👋
 
 <p align="center" >
-<img  height="280rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
+<img  height="130rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
 </p>
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
@@ -20,10 +20,11 @@ I'm a fullstack engineer based in _Phnom Penh_, **Cambodia.**
 
 <br>
 
+<!--
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
  
 <br>
-
+-->
 <p align="center"><!-----Social Accounts------>
 
 <p align="center">
@@ -47,6 +48,7 @@ I'm a fullstack engineer based in _Phnom Penh_, **Cambodia.**
 
 <br>
 
+<!--
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 ### 📋 Programming languages
@@ -191,13 +193,15 @@ I'm a fullstack engineer based in _Phnom Penh_, **Cambodia.**
 
 <br> 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Stats</b>
 
 <p align="center"><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=radinreth&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
 
 <p align="center"><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=radinreth&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
 
 <br>
+
+-->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines="First,+solve+the+problem.+Then,+write+the+code".;++"Great+Developers+never+stop+learning".)](https://git.io/typing-svg)
 
