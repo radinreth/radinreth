@@ -11,11 +11,11 @@ I'm a fullstack engineer based in _Phnom Penh_, **Cambodia.**
 
 <p>
 
--  🔭 I’m currently working on InsurTech startup 😉
+-  🔭 explore
 
-- 👯 And recently interested in Big Data, and AI.
+- ⚡️ re-charge
 
-- 🌱 Learning about Computer Vision and Machine Learning stuff
+- 🌱 and groooow...
 
 
 <br>
